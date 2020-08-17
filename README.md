@@ -1,3 +1,3 @@
 # <h1>Algoritmi <h1>
   
-Quick definition = Ctrl + Shift + I
+ To see a quick definition of an method = Ctrl + Shift + I
