@@ -30,10 +30,13 @@ public class StringBuilder_example {
 
         for (String el : list) {
 // for each elem we get from out list, we want to add it to our StringBuilder which we named it as "sb"
+           
             sb.append(el).append(" "); // we append our elem and a space between each elem
+           //myString += el + " "; -> exact same output
         }
 // return the string that is stored by our StringBuilder and we do this with toString()
         return sb.toString();
+       // return myString;  -> exact same output (oak pine fir ash birch elm )
     }
 }
 
