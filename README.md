@@ -1,1 +1,3 @@
-# <h1>aAlgoritmi <h1>
+# <h1>Algoritmi <h1>
+  
+Quick definition = Ctrl + Shift + I
