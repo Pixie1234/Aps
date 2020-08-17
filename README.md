@@ -1,4 +1,4 @@
-# <h1>Algoritmi <h1>
+# <h1>Algoritmi </h1>
   
  1. Ctrl + Shift + I -> To see a quick definition of a method
  2. Try Ctrl + Space -> gives an examples of what should be written
@@ -7,7 +7,7 @@
 
 
 
-<h3>Hints: <h3>
+<h3>Hints:</h3>
  Za da na posle poslednio element nemame space, ako e prv element go dodavame samo nego, 
   a ako e bilo koj drug dodavame prvo space pa elementot
   
