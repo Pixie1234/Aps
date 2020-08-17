@@ -11,7 +11,7 @@
  Za da na posle poslednio element nemame space, ako e prv element go dodavame samo nego, 
   a ako e bilo koj drug dodavame prvo space pa elementot
   
-  //Pseudo code:
+  //Pseudo code:<br>
     /*1. Create a StringBuilder<br>
      * 2.For each element in the list:<br>
      *       if it's the first element, append only the element<br>
