@@ -32,7 +32,9 @@ public class StringBuilder_example {
 // for each elem we get from out list, we want to add it to our StringBuilder which we named it as "sb"
            
             sb.append(el).append(" "); // we append our elem and a space between each elem
-           //myString += el + " "; -> exact same output
+           //myString += el + " "; -> exact same output BUT the difference is:
+            //we had to create 2 new objects for every element, 
+            //while with StringBuilder we create 2 new objects in total
         }
 // return the string that is stored by our StringBuilder and we do this with toString()
         return sb.toString();
