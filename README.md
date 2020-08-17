@@ -12,11 +12,11 @@
   a ako e bilo koj drug dodavame prvo space pa elementot
   
   //Pseudo code:
-    /*1. Create a StringBuilder
-     * 2.For each element in the list:
-     *       if it's the first element, append only the element
-     *       if it isn't the first element, append the separator and then append the element
-     * 3. Return the StringBuilder's string */
+    /*1. Create a StringBuilder<br>
+     * 2.For each element in the list:<br>
+     *       if it's the first element, append only the element<br>
+     *       if it isn't the first element, append the separator and then append the element<br>
+     * 3. Return the StringBuilder's string */<br>
 
     private static String listWithSeparator(List<String> list, String separator) {
         StringBuilder sb = new StringBuilder(32);
@@ -28,7 +28,7 @@
                 first = false;
             }//ako e prvo ne ulava u else
             else{
-                sb.append(separator);
+                sb.append(separator); //every other element hit the else
             }
             sb.append(el);//ovoa sekako ke se izvrse uste prvio pat
 
