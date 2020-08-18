@@ -26,9 +26,9 @@
         for (String el : list){
             if (first) {
                 first = false;
-            }//ako e prvo ne ulava u else
+            }
             else{
-                sb.append(separator); //every other element hit the else
+                sb.append(separator); //every other element hit the else except the first
             }
             sb.append(el);//ovoa sekako ke se izvrse uste prvio pat
 
