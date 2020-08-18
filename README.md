@@ -9,7 +9,7 @@
 
 
 <h3> 2. Hints:</h3>
- Za da na posle poslednio element nemame space, ako e prv element go dodavame samo nego, 
+ 1. Za da na posle poslednio element nemame space, ako e prv element go dodavame samo nego, 
   a ako e bilo koj drug dodavame prvo space pa elementot
   
   //Pseudo code:<br>
@@ -35,6 +35,23 @@
 
          }
         return sb.toString();
+
+    }
+    
+ 2. Dali zbovceto e palindrom:
+ 
+  public static void main(String[] args) throws IOException {
+ BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String s = br.readLine();
+
+        System.out.println(s +" "+ isPalindrome(s));
+ }
+  private static boolean isPalindrome(String word) {
+        StringBuilder sb = new StringBuilder(word);
+
+        String reverseWord = sb.reverse().toString();
+
+        return reverseWord.equalsIgnoreCase(word);// vraka true ako se isti
 
     }
     
