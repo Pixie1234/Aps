@@ -1,9 +1,9 @@
 # <h1>Algoritmi </h1>
   
   <h3> 1. Shortcuts: </h3>
- 1. Ctrl + Shift + I -> To see a quick definition of a method
- 2. Try Ctrl + Space -> gives an examples of what should be written
- 3. Alt + Enter -> very helpful
+ 1. Ctrl + Shift + I -> To see a quick definition of a method <br>
+ 2. Try Ctrl + Space -> gives an examples of what should be written<br>
+ 3. Alt + Enter -> very helpful<br>
 
 
 
@@ -17,7 +17,7 @@
      2.For each element in the list:<br>
      *       if it's the first element, append only the element<br>
      *       if it isn't the first element, append the separator and then append the element<br>
-     3. Return the StringBuilder's string */<br>
+     3. Return the StringBuilder's string <br>
 
     private static String listWithSeparator(List<String> list, String separator) {
         StringBuilder sb = new StringBuilder(32);
