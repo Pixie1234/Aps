@@ -1,7 +1,9 @@
-import org.w3c.dom.ls.LSOutput;
 
 import java.util.Arrays;
 import java.util.List;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class StringBuilder_example {
     public static void main(String[] args) {
@@ -10,6 +12,12 @@ public class StringBuilder_example {
         // Arrays class and asList method to instantiate our class
         trees = Arrays.asList("oak", "pine", "fir", "ash", "birch", "elm");
         System.out.println(listToString(trees));// we can use our method
+        
+        //za vnes na zbor palindrom
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String s = br.readLine();
+
+        System.out.println(s +" "+ isPalindrome(s));
     }
 
     /*other functionality to turn our list into a string,
@@ -39,6 +47,14 @@ public class StringBuilder_example {
 // return the string that is stored by our StringBuilder and we do this with toString()
         return sb.toString();
        // return myString;  -> exact same output (oak pine fir ash birch elm )
+    }
+     private static boolean isPalindrome(String word) {
+        StringBuilder sb = new StringBuilder(word);
+
+        String reverseWord = sb.reverse().toString();
+
+        return reverseWord.equalsIgnoreCase(word);// vraka true ako se isti
+
     }
 }
 
