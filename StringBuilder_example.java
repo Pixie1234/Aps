@@ -13,9 +13,14 @@ public class StringBuilder_example {
         trees = Arrays.asList("oak", "pine", "fir", "ash", "birch", "elm");
         System.out.println(listToString(trees));// we can use our method
         
+        System.out.println(listWithSeparator(trees, ", "));
+
         //za vnes na zbor palindrom
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String s = br.readLine();
+        
+        //String testWord = "test"
+        //System.out.printf("%s : %b%n", testWord, isPalindrome(testWord)); 
 
         System.out.println(s +" "+ isPalindrome(s));
     }
@@ -48,6 +53,25 @@ public class StringBuilder_example {
         return sb.toString();
        // return myString;  -> exact same output (oak pine fir ash birch elm )
     }
+     private static String listWithSeparator(List<String> list, String separator) {
+        StringBuilder sb = new StringBuilder(32);
+
+        boolean first = true;
+
+        for (String el : list){
+            if (first) {
+                first = false;
+            }//ako e prvo ne ulava u else
+            else{
+                sb.append(separator);
+            }
+            sb.append(el);//ovoa sekako ke se izvrse uste prvio pat
+
+         }
+        return sb.toString();
+
+    }
+
      private static boolean isPalindrome(String word) {
         StringBuilder sb = new StringBuilder(word);
 
