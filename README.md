@@ -86,21 +86,21 @@ String valueOf()<br>
 
 
 <h3> 2. Queues:</h3>
-public void enqueue (E x) {
-if(length == elems.length) return;//redicata e polna
-elems[rear++] = x;
-if (rear == elems.length) rear = 0;
-length++;
-}
-public E dequeue () {
-if (length > 0) {
-E frontmost = elems[front];
-elems[front++] = null;
-if (front == elems.length) front = 0;
-length--;
-return frontmost;
-} else
-throw new NoSuchElementException();
-} 
+public void enqueue (E x) { <br>
+if(length == elems.length) return;//redicata e polna<br>
+elems[rear++] = x;//go stavame elementot na rear pa rear se zgolemuva <br>
+if (rear == elems.length) rear = 0;<br>// ako zgolemen
+length++;<br>
+}<br><br>
+public E dequeue () {<br>
+if (length > 0) {<br>
+E frontmost = elems[front];<br>
+elems[front++] = null;<br>
+if (front == elems.length) front = 0;<br>
+length--;<br>
+return frontmost;<br>
+} else<br>
+throw new NoSuchElementException();<br>
+} <br>
 
 
