@@ -3,7 +3,7 @@
   <h3> 1. Shortcuts: </h3>
  1. Ctrl + Shift + I -> To see a quick definition of a method <br>
  2. Try Ctrl + Space -> gives an examples of what should be written<br>
- 3. Alt + Enter -> very helpful<br>
+ 3. Alt + Enter -> very helpful<br><br>
 
 https://pastebin.com/u/fensa08<br>
 https://leetcode.com/problems/asteroid-collision/ -> kol1 (stek i red ) asteroidi<br>
@@ -14,6 +14,7 @@ https://pastebin.com/u/MitrovG<br>
 https://pastebin.com/u/HristijanBosheski<br>
 https://github.com/Aleksandar1932/APS_2019/tree/master/src/mk/ukim/finki/aps<br>
 https://www.youtube.com/watch?v=C6KjYbAarYI&list=PLqM7alHXFySG6wgjVeEat_ouTIi0IBQ6D&index=2<br>
+https://www.youtube.com/watch?v=jos1Flt21is -> Infix, Prefix and Postfix <br>
 
 
 <h3> 2. Hints:</h3>
