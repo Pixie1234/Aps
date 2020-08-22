@@ -6,6 +6,13 @@
  3. Alt + Enter -> very helpful<br>
 
 https://pastebin.com/u/fensa08
+https://leetcode.com/problems/asteroid-collision/ -> kol1 (stek i red ) asteroidi
+https://pastebin.com/u/SlamkovD
+https://pastebin.com/u/Andziev
+https://pastebin.com/u/ekrajchevska
+https://pastebin.com/u/MitrovG
+https://pastebin.com/u/HristijanBosheski
+https://github.com/Aleksandar1932/APS_2019/tree/master/src/mk/ukim/finki/aps
 
 
 <h3> 2. Hints:</h3>
