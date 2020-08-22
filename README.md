@@ -95,12 +95,14 @@ String valueOf()<br>
 
 
 <h3> 2. Queues:</h3>
+<b>Редица со низа:</b><br>
 public void enqueue (E x) { <br>
 if(length == elems.length) return;//redicata e polna<br>
 elems[rear++] = x;//go stavame elementot na rear pa rear se zgolemuva <br>
 if (rear == elems.length) rear = 0;<br>// ako zgolemen
 length++;<br>
-}<br><br>
+}<br>
+<br>
 public E dequeue () {<br>
 if (length > 0) {<br>
 E frontmost = elems[front];<br>
@@ -111,5 +113,28 @@ return frontmost;<br>
 } else<br>
 throw new NoSuchElementException();<br>
 } <br>
-
-
+<b>Редица со листа:</b><br>
+public void enqueue (E x) {<br>
+//Praeme nov Node koj so treba da go staveme na kraj, koj so ja imae vrednosta na x so ja prakame kako argument i null kako successor (koga succ e null znaci ovoj Node se naogja na kraj).<br>
+SLLNode<E> latest = new SLLNode<E>(x, null);<br>
+//Ako rear e razlicno od null toa znaci deka imam barem eden element(listata ne e prazna) <br> 
+if (rear != null) {<br>
+rear.succ = latest;<br>
+rear = latest;<br>
+} else<br>
+//inaku listata e prazna i elemetot so go dodavame ke e i front i rear<br>  
+front = rear = latest;<br>
+length++;<br>
+}<br>
+  <br>
+public E dequeue () {<br>
+if (front != null) {<br>
+E frontmost = front.element;<br>
+front = front.succ;<br>
+if (front == null) rear = null;<br>
+length--;<br>
+return frontmost;<br>
+} else<br>
+throw new NoSuchElementException();<br>
+}<br>
+  <br>
