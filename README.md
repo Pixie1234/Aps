@@ -115,7 +115,7 @@ return frontmost;<br>
 } else<br>
 throw new NoSuchElementException();<br>
 } <br>
-<b>Редица со листа:</b><br>
+<h3>Редица со листа:</h3><br>
 <b>Додавање на елемент</b><br>
 public void enqueue (E x) {<br>
 //Praeme nov Node koj so treba da go staveme na kraj, koj so ja imae vrednosta na x so ja prakame kako argument i null kako successor (koga succ e null znaci ovoj Node se naogja na kraj).<br>
