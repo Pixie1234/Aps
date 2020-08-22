@@ -5,7 +5,7 @@
  2. Try Ctrl + Space -> gives an examples of what should be written<br>
  3. Alt + Enter -> very helpful<br><br>
 
-https://pastebin.com/u/fensa08<br>
+https://pastebin.com/u/fensa08-> kolokviumski i ispiti ubavi zadaci<br>
 https://leetcode.com/problems/asteroid-collision/ -> kol1 (stek i red ) asteroidi<br>
 https://pastebin.com/u/SlamkovD<br>
 https://pastebin.com/u/Andziev<br>
