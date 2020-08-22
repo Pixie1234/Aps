@@ -104,7 +104,7 @@ length++;<br>
 public E dequeue () {<br>
 if (length > 0) {<br>
 E frontmost = elems[front];<br>
-elems[front++] = null;<br>
+elems[front++] = null; -> momentalniot front stanuva null, i sea front se pomestuva za 1<br>
 if (front == elems.length) front = 0;<br>
 length--;<br>
 return frontmost;<br>
