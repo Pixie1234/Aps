@@ -96,18 +96,16 @@ String valueOf()<br>
 
 <h2> 2. Queues:</h2>
 Интерфејсот Queue во Java
-• Нема готова класа за редица во Java, само
-интерфејс.
-Класи кои го имплементираат Queue
-интерфејсот се:
-– AbstractCollection
-– LinkedList
-– PriorityQueue
-– LinkedBlockingQueue
-– BlockingQueue
-– ArrayBlockingQueue
-– LinkedBlockingQueue
-– PriorityBlockingQueue
+• Нема готова класа за редица во Java, само интерфејс.<br>
+Класи кои го имплементираат Queue интерфејсот се:<br>
+– AbstractCollection<br>
+– LinkedList<br>
+– PriorityQueue<br>
+– LinkedBlockingQueue<br>
+– BlockingQueue<br>
+– ArrayBlockingQueue<br>
+– LinkedBlockingQueue<br>
+– PriorityBlockingQueue<br>
 
 <h3>Редица со низа:</h3><br>
 <b>Додавање на елемент</b><br>
