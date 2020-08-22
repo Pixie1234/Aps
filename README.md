@@ -5,14 +5,15 @@
  2. Try Ctrl + Space -> gives an examples of what should be written<br>
  3. Alt + Enter -> very helpful<br>
 
-https://pastebin.com/u/fensa08
-https://leetcode.com/problems/asteroid-collision/ -> kol1 (stek i red ) asteroidi
-https://pastebin.com/u/SlamkovD
-https://pastebin.com/u/Andziev
-https://pastebin.com/u/ekrajchevska
-https://pastebin.com/u/MitrovG
-https://pastebin.com/u/HristijanBosheski
-https://github.com/Aleksandar1932/APS_2019/tree/master/src/mk/ukim/finki/aps
+https://pastebin.com/u/fensa08<br>
+https://leetcode.com/problems/asteroid-collision/ -> kol1 (stek i red ) asteroidi<br>
+https://pastebin.com/u/SlamkovD<br>
+https://pastebin.com/u/Andziev<br>
+https://pastebin.com/u/ekrajchevska<br>
+https://pastebin.com/u/MitrovG<br>
+https://pastebin.com/u/HristijanBosheski<br>
+https://github.com/Aleksandar1932/APS_2019/tree/master/src/mk/ukim/finki/aps<br>
+https://www.youtube.com/watch?v=C6KjYbAarYI&list=PLqM7alHXFySG6wgjVeEat_ouTIi0IBQ6D&index=2<br>
 
 
 <h3> 2. Hints:</h3>
