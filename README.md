@@ -5,7 +5,7 @@
  2. Try Ctrl + Space -> gives an examples of what should be written<br>
  3. Alt + Enter -> very helpful<br>
 
-
+https://pastebin.com/u/fensa08
 
 
 <h3> 2. Hints:</h3>
