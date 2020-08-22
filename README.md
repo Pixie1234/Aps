@@ -94,8 +94,9 @@ String trim()<br>
 String valueOf()<br>
 
 
-<h3> 2. Queues:</h3>
-<b>Редица со низа:</b><br>
+<h2> 2. Queues:</h2>
+<h3>Редица со низа:</h3><br>
+<b>Додавање на елемент</b><br>
 public void enqueue (E x) { <br>
 if(length == elems.length) return;//redicata e polna<br>
 elems[rear++] = x;//go stavame elementot na rear pa rear se zgolemuva <br>
@@ -103,6 +104,7 @@ if (rear == elems.length) rear = 0;<br>// ako zgolemen
 length++;<br>
 }<br>
 <br>
+<b>Oдзимање на елемент</b><br>
 public E dequeue () {<br>
 if (length > 0) {<br>
 E frontmost = elems[front];<br>
@@ -114,6 +116,7 @@ return frontmost;<br>
 throw new NoSuchElementException();<br>
 } <br>
 <b>Редица со листа:</b><br>
+<b>Додавање на елемент</b><br>
 public void enqueue (E x) {<br>
 //Praeme nov Node koj so treba da go staveme na kraj, koj so ja imae vrednosta na x so ja prakame kako argument i null kako successor (koga succ e null znaci ovoj Node se naogja na kraj).<br>
 SLLNode<E> latest = new SLLNode<E>(x, null);<br>
@@ -127,6 +130,7 @@ front = rear = latest;<br>
 length++;<br>
 }<br>
   <br>
+  <b>Oдзимање на елемент</b><br>
 public E dequeue () {<br>
 if (front != null) {<br>
 E frontmost = front.element;<br>
