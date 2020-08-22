@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=jos1Flt21is -> Infix, Prefix and Postfix <br>
 
 if(i == 0) ... //if i = 0 this will work and skip following statement<br>
 else if(i == 1) ...//if i not equal to 0 and if i = 1 this will work and skip following statement<br>
-else if(i == 2) ...// if i not equal to 0 or 1 and if i = 2 the statement will execute<br><br><br>
+else if(i == 2) ...// if i not equal to 0 or 1 and if i = 2 the statement will execute<br><br>
 
 
 if(i == 0) ...//if i = 0 this will work and check the following conditions also<br>
