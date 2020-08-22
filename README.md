@@ -17,6 +17,18 @@ https://www.youtube.com/watch?v=C6KjYbAarYI&list=PLqM7alHXFySG6wgjVeEat_ouTIi0IB
 https://www.youtube.com/watch?v=jos1Flt21is -> Infix, Prefix and Postfix <br>
 
 
+
+if(i == 0) ... //if i = 0 this will work and skip following statement
+else if(i == 1) ...//if i not equal to 0 and if i = 1 this will work and skip following statement
+else if(i == 2) ...// if i not equal to 0 or 1 and if i = 2 the statement will execute
+
+
+if(i == 0) ...//if i = 0 this will work and check the following conditions also
+if(i == 1) ...//regardless of the i == 0 check, this if condition is checked
+if(i == 2) ...//regardless of the i == 0 and i == 1 check, this if condition is checked
+
+
+
 <h3> 2. Hints:</h3>
  1. Za da na posle poslednio element nemame space, ako e prv element go dodavame samo nego, 
   a ako e bilo koj drug dodavame prvo space pa elementot
