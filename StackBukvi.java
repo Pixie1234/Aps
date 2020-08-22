@@ -91,19 +91,19 @@ public class StackBukvi {
             }
         }
         while (!stek.isEmpty()) {
-            if (stek.pop() == 'T') {
-                countT++;
-            } else if (flag) {
-                flag = false;
-                previous = countT;
+            if(stek.pop() == 'T')
+                ++counterT;//counter tuka se mene 
+            else {
+                if(flag) {
+                    previous = counterT;//samo prvio pat ke ja zeme vrednosta na counter posle ne ulava tuka
+                    flag = false;//ovoa e kako toa po operativni so kriticen segment
+                } else if (counterT != previous){ // ako segasniot counter e razlicen od taj so bil prv
+                    return 0;
+                }
+                counterT = 0;//counterT go refresh praeme
             }
-           else if (countT != previous) {
-                return 0;
-            }
-            countT = 0;
         }
         return 1;
-
     }
     public static void main(String[] args) throws IOException {
         char [] niza=new char[100];
