@@ -84,3 +84,23 @@ String toUpperCase()<br>
 String trim()<br>
 String valueOf()<br>
 
+
+<h3> 2. Queues:</h3>
+public void enqueue (E x) {
+if(length == elems.length) return;//redicata e polna
+elems[rear++] = x;
+if (rear == elems.length) rear = 0;
+length++;
+}
+public E dequeue () {
+if (length > 0) {
+E frontmost = elems[front];
+elems[front++] = null;
+if (front == elems.length) front = 0;
+length--;
+return frontmost;
+} else
+throw new NoSuchElementException();
+} 
+
+
