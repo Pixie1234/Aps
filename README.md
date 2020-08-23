@@ -8,6 +8,7 @@
  5. Smart code completion –> Ctrl + Shift + Space -Smart code completion is much more effective as it will only display the autocomplete options relevant to context by filtering the list of suggestions to show only classes, variables, fields and methods of the type that can be expected<br>
 
 https://www.youtube.com/watch?v=70qy6_gw1Hc-> hesh objasneno ubavo<br>
+https://www.youtube.com/watch?v=PeFyhRr42ac -> heshSet dodava elem so .add() <br> 
 https://pastebin.com/LTjxUDz8 -> hesh PM10 cesticki -vezbi<br>
 https://pastebin.com/u/fensa08-> kolokviumski i ispiti ubavi zadaci<br>
 https://pastebin.com/u/DajanaS -> mn zadaci <br>
