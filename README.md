@@ -7,6 +7,7 @@
 
 https://www.youtube.com/watch?v=70qy6_gw1Hc-> hesh objasneno ubavo<br>
 https://pastebin.com/u/fensa08-> kolokviumski i ispiti ubavi zadaci<br>
+https://pastebin.com/u/DajanaS -> mn zadaci
 https://leetcode.com/problems/asteroid-collision/ -> kol1 (stek i red ) asteroidi<br>
 https://pastebin.com/u/SlamkovD<br>
 https://pastebin.com/u/Andziev<br>
