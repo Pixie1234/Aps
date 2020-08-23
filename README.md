@@ -5,7 +5,7 @@
  2. Try Ctrl + Space -> gives an examples of what should be written(Basic code completion)<br>
  3. Alt + Enter -> very helpful<br>
  4. Find class – Ctrl + N -> To find the class you seek simply press Ctrl + N and type the name.<br>
- 5.Smart code completion –> Ctrl + Shift + Space -Smart code completion is much more effective as it will only display the autocomplete options relevant to context by filtering the list of suggestions to show only classes, variables, fields and methods of the type that can be expected<br>
+ 5. Smart code completion –> Ctrl + Shift + Space -Smart code completion is much more effective as it will only display the autocomplete options relevant to context by filtering the list of suggestions to show only classes, variables, fields and methods of the type that can be expected<br>
 
 https://www.youtube.com/watch?v=70qy6_gw1Hc-> hesh objasneno ubavo<br>
 https://pastebin.com/u/fensa08-> kolokviumski i ispiti ubavi zadaci<br>
