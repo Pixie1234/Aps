@@ -121,7 +121,8 @@ class CureName {
         return (29 * (29 * (29 * 0 + name.charAt(0)) + name.charAt(1))+ name.charAt(2)) % 102780;
     }
 //in the Object
-    @Override
+    @Override  //https://www.youtube.com/watch?v=7V3589CReug -> zaso mora za napraeme Override na equals explained 
+ 
     public boolean equals(Object obj) {
         if (this == obj)
             return true;
