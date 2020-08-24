@@ -6,7 +6,7 @@
  3. Alt + Enter -> very helpful<br>
  4. Find class – Ctrl + N -> To find the class you seek simply press Ctrl + N and type the name.<br>
  5. Smart code completion –> Ctrl + Shift + Space -Smart code completion is much more effective as it will only display the autocomplete options relevant to context by filtering the list of suggestions to show only classes, variables, fields and methods of the type that can be expected<br>
- 6. MNOGU KORISNO: so gluvceto postaveno na klasata pa na Code opcijata u menu->Generate -> moze da napraveme geteri seteri da override methods od tuka da go dobieme cel kod za equals na klasi( look up the link for more )
+ 6. MNOGU KORISNO: so gluvceto postaveno na klasata pa na Code opcijata u menu->Generate -> moze da napraveme geteri seteri da override methods od tuka da go dobieme cel kod za equals na klasi da go @Override( look up the link for more )
  https://www.jetbrains.com/help/idea/generating-code.html#generate-getters-setters<br>
  <br>
 
