@@ -138,4 +138,15 @@ class CureName {
             return false;
         return true;
     }
+ //generiran od Intellij -> na Code od meni klikame -> Generate -> equals() and Hashcode()
+ /*
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof CureName)) return false;
+        CureName cureName = (CureName) o;
+        return Objects.equals(name, cureName.name);
+    }
+    
+ */
 }
