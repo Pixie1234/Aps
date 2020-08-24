@@ -9,8 +9,8 @@
  6. MNOGU KORISNO: so gluvceto postaveno na klasata pa na Code opcijata u menu->Generate -> moze da napraveme geteri seteri da override methods od tuka da go dobieme cel kod za equals na klasi da go @Override( look up the link for more )
  https://www.jetbrains.com/help/idea/generating-code.html#generate-getters-setters<br>
  <br><br>
- **Praveme void method ako metodot ne vraka nisto (toa znaci deka nema return, moze da printa da sortira ..)<br>
  
+ https://www.youtube.com/watch?v=L1htVG3xP5Y ->Praveme void method ako metodot ne vraka nisto i dr bitni stvari (toa znaci deka nema return, moze da printa da sortira ..)<br>
  https://www.youtube.com/watch?v=hLYOpvoM4vk -> super keyword<br>
 https://www.youtube.com/watch?v=52frlN8webg ->THE big difference between abstract classes and interfaces (ubavo onjasneto)<br>
 https://www.youtube.com/watch?v=70qy6_gw1Hc-> hesh objasneno ubavo<br>
