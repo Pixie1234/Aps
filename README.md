@@ -9,7 +9,7 @@
  6. MNOGU KORISNO: so gluvceto postaveno na klasata pa na Code opcijata u menu->Generate -> moze da napraveme geteri seteri da override methods od tuka da go dobieme cel kod za equals na klasi da go @Override( look up the link for more )
  https://www.jetbrains.com/help/idea/generating-code.html#generate-getters-setters<br>
  <br>
-
+https://www.youtube.com/watch?v=52frlN8webg ->THE big difference between abstract classes and interfaces (ubavo onjasneto)
 https://www.youtube.com/watch?v=70qy6_gw1Hc-> hesh objasneno ubavo<br>
 https://www.youtube.com/watch?v=PeFyhRr42ac -> heshSet dodava elem so .add() <br> 
 https://pastebin.com/LTjxUDz8 -> hesh PM10 cesticki -vezbi<br>
