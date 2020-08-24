@@ -8,6 +8,7 @@
  5. Smart code completion –> Ctrl + Shift + Space -Smart code completion is much more effective as it will only display the autocomplete options relevant to context by filtering the list of suggestions to show only classes, variables, fields and methods of the type that can be expected<br>
  6. MNOGU KORISNO: so gluvceto postaveno na klasata pa na Code opcijata u menu->Generate -> moze da napraveme geteri seteri da override methods od tuka da go dobieme cel kod za equals na klasi( look up the link for more )
  https://www.jetbrains.com/help/idea/generating-code.html#generate-getters-setters<br>
+ <br>
 
 https://www.youtube.com/watch?v=70qy6_gw1Hc-> hesh objasneno ubavo<br>
 https://www.youtube.com/watch?v=PeFyhRr42ac -> heshSet dodava elem so .add() <br> 
