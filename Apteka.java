@@ -17,6 +17,38 @@
 h(w)=(29∗(29∗(29∗0+ASCII(c1))+ASCII(c2))+ASCII(c3))%102780 каде зборот w=c1c2c3c4c5…. е составен од сите големи букви.
 
 Исто така за лековите да се направи посебна класа која како атрибути ќе ги има наведените карактеристики на лекот во системот.
+SAMPLE INPUT
+20
+ACEROLA 0 100 1000
+ACIKLOVIR 1 1650 87
+ACIPAN 1 300 25
+ADIMICIN 0 500 0
+VENTOR 1 0 25
+VALSACOR 1 1090 10
+TYVERB 0 62696 1
+ULCODIN 1 47 100
+TRICAL 0 0 0
+RUBENS 0 2315 0
+IBALGIN 1 0 100
+HYDROCYKLIN 0 55 10
+GENTAMICIN 1 152 90
+FORTEO 1 0 0
+FORVITAC 1 0 150
+CHIROCAINE 1 0 10
+BRONLES 1 0 0
+BELOGENT 0 143 30
+BEDOXIN 1 0 100
+HYDROCYKLIN20 0 113 20
+hydroCyklinn
+2
+hydroCyklin20
+2
+KRAJ
+
+SAMPLE OUTPUT
+Nema takov lek
+HYDROCYKLIN20
+NEG
 */
 
 import java.util.Hashtable;
