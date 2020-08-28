@@ -1,6 +1,6 @@
 # <h1>Algoritmi </h1>
   
-  <h3> 1. Shortcuts: </h3>
+  <h2> 1. Shortcuts: </h2>
  1. Ctrl + Shift + I -> To see a quick definition of a method <br>
  2. Try Ctrl + Space -> gives an examples of what should be written(Basic code completion)<br>
  3. Alt + Enter -> very helpful<br>
