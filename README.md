@@ -41,7 +41,7 @@ if(i == 2) ...//regardless of the i == 0 and i == 1 check, this if condition is 
 
 
 
-<h3> 2. Hints:</h3>
+<h2> 2. Hints:</h2>
  1. Za da na posle poslednio element nemame space, ako e prv element go dodavame samo nego, 
   a ako e bilo koj drug dodavame prvo space pa elementot
   
