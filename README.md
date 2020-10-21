@@ -8,6 +8,7 @@
  5. Smart code completion –> Ctrl + Shift + Space -Smart code completion is much more effective as it will only display the autocomplete options relevant to context by filtering the list of suggestions to show only classes, variables, fields and methods of the type that can be expected<br>
  6. MNOGU KORISNO: so gluvceto postaveno na klasata pa na Code opcijata u menu->Generate -> moze da napraveme geteri seteri da override methods od tuka da go dobieme cel kod za equals na klasi da go @Override( look up the link for more )
  https://www.jetbrains.com/help/idea/generating-code.html#generate-getters-setters<br>
+ 7.Selektiras od klasata elementite i alt+enter da se naprave konstruktor <br>
  <br><br>
  
  https://www.youtube.com/watch?v=L1htVG3xP5Y ->Praveme void method ako metodot ne vraka nisto i dr bitni stvari (toa znaci deka nema return, moze da printa da sortira ..)<br>
