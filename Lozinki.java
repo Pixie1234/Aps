@@ -36,6 +36,7 @@ public class Lozinki {
         //obidi da se najavat so tocno korisnicko ime i lozinka
         String s = br.readLine();//za prvio tuka citame
         while (!s.equals("KRAJ")) {
+         //split("\\s+") will split the string into string of array with separator as space or multiple spaces. \s+ is a regular expression for one or more spaces.
             String[] parts = s.split("\\s++");
 //
             //prvo provere dali postoe taj key u mapata
