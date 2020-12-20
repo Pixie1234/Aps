@@ -13,6 +13,8 @@
  8. ALT + SHIFT + SPACE дава sugesstions dodeka pisuvas ako ne znaes<br>
  9. CTRL + Q -> dava dokumentacija (selektiras go kodot so sakas da ti dae dokumentacija)<br>
  <br><br>
+ Difference Between Inheritance and Polymorphism: <br>
+ https://techdifferences.com/difference-between-inheritance-and-polymorphism.html#:~:text=The%20basic%20difference%20between%20inheritance,a%20function%20to%20be%20invoked.<br>
  
  https://www.youtube.com/watch?v=L1htVG3xP5Y ->Praveme void method ako metodot ne vraka nisto i dr bitni stvari (toa znaci deka nema return, moze da printa da sortira ..)<br>
  https://www.youtube.com/watch?v=hLYOpvoM4vk -> super keyword<br>
