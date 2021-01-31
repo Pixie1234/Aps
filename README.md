@@ -5,7 +5,7 @@
 HashSet is not index based as ArrayList that is why there is no order in HashSet. and
 HashSet does not accept duplications of elements, but in ArrayList duplication is allowed. <br>
 Hint 2:<br>
-In order to print HashSet elements you can use Iterator or you can use for-each loop. the same thing acceptable for ArrayList<br>
+In order to print HashSet elements you can use Iterator or you can use for-each loop. the same thing acceptable for ArrayList<br><br>
  
  1. Ctrl + Shift + I -> To see a quick definition of a method <br>
  2. Try Ctrl + Space -> gives an examples of what should be written(Basic code completion)<br>
