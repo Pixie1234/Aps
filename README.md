@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=52frlN8webg ->THE big difference between abstrac
 https://www.youtube.com/watch?v=70qy6_gw1Hc-> hesh objasneno ubavo<br>
 https://www.youtube.com/watch?v=PeFyhRr42ac -> heshSet dodava elem so .add() <br> 
 https://pastebin.com/LTjxUDz8 -> hesh PM10 cesticki -vezbi<br>
-https://pastebin.com/u/fensa08-> kolokviumski i ispiti ubavi zadaci<br>
+https://pastebin.com/u/fensa08 -> kolokviumski i ispiti ubavi zadaci<br>
 https://pastebin.com/u/DajanaS -> mn zadaci <br>
 https://leetcode.com/problems/asteroid-collision/ -> kol1 (stek i red ) asteroidi<br>
 https://pastebin.com/u/SlamkovD<br>
