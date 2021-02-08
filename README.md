@@ -22,7 +22,7 @@ In order to print HashSet elements you can use Iterator or you can use for-each 
  Difference Between Inheritance and Polymorphism: <br>
  https://techdifferences.com/difference-between-inheritance-and-polymorphism.html#:~:text=The%20basic%20difference%20between%20inheritance,a%20function%20to%20be%20invoked.<br><br>
  
- https://github.com/atodorovska/APS2020/tree/main/first_partial_exam_prep -> listi od ana asistentkata
+ https://github.com/atodorovska/APS2020/tree/main/first_partial_exam_prep -> listi od ana asistentkata<br>
  https://www.youtube.com/watch?v=L1htVG3xP5Y ->Praveme void method ako metodot ne vraka nisto i dr bitni stvari (toa znaci deka nema return, moze da printa da sortira ..)<br>
  https://www.youtube.com/watch?v=hLYOpvoM4vk -> super keyword<br>
 https://www.youtube.com/watch?v=52frlN8webg ->THE big difference between abstract classes and interfaces (ubavo onjasneto)<br>
