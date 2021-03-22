@@ -18,6 +18,7 @@ In order to print HashSet elements you can use Iterator or you can use for-each 
  7.Selektiras od klasata elementite i alt+enter da se naprave konstruktor <br>
  8. ALT + SHIFT + SPACE дава sugesstions dodeka pisuvas ako ne znaes<br>
  9. CTRL + Q -> dava dokumentacija (selektiras go kodot so sakas da ti dae dokumentacija)<br>
+ 10. So CTRL + hover so mausot dava objasnuvanjedisplays the symbol as a link and shows its definition in a tooltip https://www.jetbrains.com/help/idea/viewing-reference-information.html#view-definition-symbols <br>
  <br><br>
  Difference Between Inheritance and Polymorphism: <br>
  https://techdifferences.com/difference-between-inheritance-and-polymorphism.html#:~:text=The%20basic%20difference%20between%20inheritance,a%20function%20to%20be%20invoked.<br><br>
