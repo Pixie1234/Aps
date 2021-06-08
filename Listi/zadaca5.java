@@ -1,3 +1,7 @@
+//metod koj kje gi isfrli povekjekratnie pojavuvanja na edna rednost i kje ostavi samo eden jazel
+//so ovaa vo koj kje se zapishe kolku pati prvobitno se pojavila vrednost vo listata
+
+
 class DLLNode<E> {
     protected E element;
     protected DLLNode<E> pred, succ;
