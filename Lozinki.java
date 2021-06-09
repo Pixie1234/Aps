@@ -47,8 +47,9 @@ public class Lozinki {
                 //parts[1] e vneseniot pass
                 if (map.get(parts[0]).equals(parts[1])) {//get.parts[0]-> vraka banana od mapata. parts[1] e vnesenoto sega ->bannnana
                     System.out.println("Najaven");
-                    break;
-                } else System.out.println("Nenajaven");
+                    s = br.readLine();
+                    continue;
+                  } else System.out.println("Nenajaven");
             } else System.out.println("Nenajaven");
             s = br.readLine();// posle za ostanatite tuka citame
         }
